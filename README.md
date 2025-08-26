@@ -1,94 +1,119 @@
-# Manifesto da Vaga Justa
+<p align="center">
+    <img src="./.github/logo.png" width="250px" style="border-radius: 16px;">
+</p>
+
+<h1 align="center" style="font-weight: bold;">Manifesto da Vaga Justa</h1>
+
+Este manifesto propõe boas práticas que podem consideradas durante um processo de contratação de um profissional, especialmente na área de tecnologia.
+
+Neste processo, temos algumas partes envolvidas, sendo:
+
+1. **CANDIDATO** - A pessoa que procura por uma oportunidade de trabalho.
+2. **CONTRATANTE** - A empresa que procura por um profissional.
+3. **PLATAFORMA** - A plataforma que facilita a contratação.
 
 ## Preâmbulo
 
-[Contexto sobre a situação atual dos processos de contratação na área de tecnologia]
+Chegamos a este manifesto após identificar e entender que existe uma dor durante o processo de contratação. Seja da parte do **CANDIDATO**, da **CONTRATANTE** ou da **PLATAFORMA**, mapeamos e estudamos as dores das partes para a criação deste documento unificado que propõe uma serie de **PRINCÍPIOS** e **DIRETRIZES** que visam tonar o processo de contratação de profissionais de tecnologia mais **JUSTO** para todos as partes.
 
-[Descrição do problema e sua magnitude]
+### Situação Atual
 
-[Motivação para a criação deste manifesto]
+Chegamos a um ponto insustentável. Não importa a senioridade do CANDIDATO, notamos que a grande maioria relata enfrentar o mesmo labirinto desgastante dos processos seletivos em tecnologia.
+
+Processos desestruturados, etapas intermináveis, entrevistas sem propósito, feedbacks inexistentes ou, quando muito, respostas genéricas que nada acrescentam.
+
+### O Problema
+
+Entendemos que este processo deveria ser um encontro de oportunidades. Poucas **CONTRATANTES** compreendem o seu papel neste processo, tornando-o justo oferecendo _feedbacks_ honestos, justos e construtivos (independente da aprovação ou não do **CANDIDATO**).
+
+Temos o sentimento de que as **CONTRATANTES** dificilmente preocupam em conduzir processos humanizados.
+
+Isso gera o grande **PROBLEMA**: CANDIDATOS sérios e comprometidos são tratados como descartáveis. **CANDIDATOS** qualificados permanecem sem oportunidades. As **CONTRATANTES** sofrem com o turnover de pessoas e as **PLATAFORMAS** quase sempre pendem para o lado das **CONTRATANTES**.
 
 ## Princípios Fundamentais
 
-### 1. [PRINCÍPIO 1]
+Estes são os princípios que sugerimos a serem seguidos para a construção de uma vaga justa:
 
-[Descrição do primeiro princípio fundamental]
+### 1. Transparência acima de tudo
 
-### 2. [PRINCÍPIO 2]
+Nenhuma vaga deve existir sem informações claras:
 
-[Descrição do segundo princípio fundamental]
+- Salário
+- Empresa
+- Requisitos **REAIS**
+- Etapas do processo
 
-### 3. [PRINCÍPIO 3]
+**As vagas devem realmente existir!** - A coleta de infomações para banco de talentos deve ser feita em outro processo.
 
-[Descrição do terceiro princípio fundamental]
+**As vagas devem possuir um tempo de vida** - Indepentende da contratação ou não, ao final deste período, a vaga deve ser encerrada, e uma nova vaga deve ser aberta.
 
-### 4. [PRINCÍPIO 4]
+**Contratações devem "parar" a vaga atual** - Não faz sentido continuar com a vaga aberta quando uma contratação for realizada.
 
-[Descrição do quarto princípio fundamental]
+### 2. Feedback é obrigação, não favor
 
-### 5. [PRINCÍPIO 5]
+A **CONTRATANTE** deve entender que a única "recompensa" de um **CANDIDATO** durante o processo de seleção é o _feedback_.
 
-[Descrição do quinto princípio fundamental]
+Todo candidato **merece** retorno. Seja positivo ou negativo, o _feedback_ deve ser construtivo, claro e dentro de prazos razoáveis.
 
-## Diretrizes para Candidatos
+### 3. Respeito ao tempo humano
 
-- Item 1
-- Item 2
-- Item 3
+Processos seletivos não podem se arrastar por meses nem exigir formulários e testes inúteis. Na primeira conversa, o **CANDIDATO** deve ter total ciência de quais serão as etapas e quanto tempo cada uma delas deverá ocorrer. Cada etapa deve ter propósito real, ser objetiva e proporcional à vaga oferecida.
 
-## Diretrizes para Empresas
+### 4. Avaliação justa e relevante
 
-- Item 1
-- Item 2
-- Item 3
+Testes técnicos devem medir habilidades práticas e condizentes com o trabalho real não armadilhas, desafios irreais ou provas intermináveis que nada dizem sobre a competência do candidato.
 
-## Diretrizes para Plataformas
+### 5. Reciprocidade no processo
 
-- Item 1
-- Item 2
-- Item 3
+Contratação não é uma via de mão única. CONTRATANTES e CANDIDATOS têm direitos e deveres. O processo deve ser justo para ambos os lados, construindo oportunidades reais de crescimento e não apenas triagens descartáveis.
+
+## Diretrizes
+
+## Candidatos
+
+- **Compromisso com a verdade**: apresente suas experiências, expectativas e limitações com honestidade.
+- **Respeito ao processo**: cumpra prazos, etapas e comunique-se de forma clara.
+- **Busca ativa por reciprocidade**: valorize empresas e plataformas que sigam práticas justas, e denuncie quando não o fizerem.
+
+## Contratantes
+
+- **Transparência radical**: divulgue salário, requisitos reais, etapas e prazos de forma clara desde o início.
+- **Feedback obrigatório**: dê retorno a todos os candidatos em tempo adequado, sempre com respeito e objetividade.
+- **Processos humanos e objetivos**: elimine burocracias inúteis e use avaliações proporcionais à vaga.
+
+## Plataformas
+
+- **Centralização e simplicidade**: permita perfis únicos, evitando a repetição desnecessária de informações.
+- **Validação e combate a fraudes**: não aceite vagas fantasmas; exija informações completas e verificadas.
+- **Equilíbrio de poder**: crie sistemas que beneficiem tanto empresas quanto candidatos, evitando que apenas um lado seja favorecido.
 
 ## Compromissos
 
-### Compromissos dos Candidatos
+### Candidatos
 
-- Item 1
-- Item 2
-- Item 3
+- **Agir com integridade**: não inflar currículos, não trapacear em testes, não ocultar informações relevantes.
+- **Participar ativamente**: dar retorno em entrevistas, avisar em caso de desistência, manter comunicação clara.
+- **Apoiar o padrão justo**: promover, cobrar e aderir a processos seletivos que respeitem os princípios do manifesto.
 
 ### Compromissos das Empresas
 
-- Item 1
-- Item 2
-- Item 3
+- **Honrar a transparência**: jamais publicar vagas sem salário, requisitos claros ou informações completas.
+- **Garantir respeito**: tratar candidatos com dignidade em todas as etapas, reconhecendo o valor do tempo investido.
+- **Praticar melhoria contínua**: revisar e ajustar constantemente seus processos de seleção para que sejam mais justos e eficientes.
 
 ### Compromissos das Plataformas
 
-- Item 1
-- Item 2
-- Item 3
-
-## Assinaturas
-
-### Desenvolvedores
-
-[Lista de desenvolvedores que assinam este manifesto]
-
-### Empresas
-
-[Lista de empresas que assinam este manifesto]
-
-### Plataformas
-
-[Lista de plataformas que assinam este manifesto]
+- **Ser guardiãs da clareza**: impedir vagas incompletas, vagas fantasmas e dados enganosos.
+- **Equilibrar interesses**: garantir que tanto empresas quanto candidatos tenham voz e benefícios iguais.
+- **Promover inovação justa**: usar tecnologia para simplificar processos, reduzir redundâncias e facilitar o match real.
 
 ---
 
-**Data de Criação:** [DATA]
+**Data de Criação:** 26/08/2025
 
-**Versão:** 1.0
+**Versão:** 0.0.1
 
-**Licença:** [TIPO DE LICENÇA]
+**Licença:** Creative Commons Attribution-ShareAlike 4.0 International License
 
 ---
 
