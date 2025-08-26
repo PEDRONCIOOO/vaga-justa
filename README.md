@@ -65,7 +65,6 @@ Vagas fantasmas não têm lugar aqui.
 **Candidatos**
 
 * Agir com integridade e apoiar práticas justas.
-* Apoiar e cobrar práticas justas.
 * Ser pró-ativo, disposto, sincero durante todo o processo.
 
 **Empresas**
@@ -83,7 +82,9 @@ Vagas fantasmas não têm lugar aqui.
 ---
 
 **Data de Criação:** 26/08/2025
+
 **Versão:** 0.0.2
+
 **Licença:** Creative Commons Attribution-ShareAlike 4.0 International License
 
 ---
