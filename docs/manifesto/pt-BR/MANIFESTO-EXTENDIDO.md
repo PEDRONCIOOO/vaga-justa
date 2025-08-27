@@ -14,7 +14,7 @@ Neste processo, temos algumas partes envolvidas, sendo:
 
 ## Preâmbulo
 
-Chegamos a este manifesto após identificar e entender que existe uma dor durante o processo de contratação. Seja da parte do **CANDIDATO**, da **CONTRATANTE** ou da **PLATAFORMA**, mapeamos e estudamos as dores das partes para a criação deste documento unificado que propõe uma serie de **PRINCÍPIOS** e **DIRETRIZES** que visam tonar o processo de contratação de profissionais de tecnologia mais **JUSTO** para todos as partes.
+Chegamos a este manifesto após identificar e entender que existe uma dor durante o processo de contratação. Seja da parte do **CANDIDATO**, da **CONTRATANTE** ou da **PLATAFORMA**, mapeamos e estudamos as dores das partes para a criação deste documento unificado que propõe uma serie de **PRINCÍPIOS** e **DIRETRIZES** que visam tornar o processo de contratação de profissionais de tecnologia mais **JUSTO** para todas as partes.
 
 ### Situação Atual
 
@@ -26,7 +26,7 @@ Processos desestruturados, etapas intermináveis, entrevistas sem propósito, fe
 
 Entendemos que este processo deveria ser um encontro de oportunidades. Poucas **CONTRATANTES** compreendem o seu papel neste processo, tornando-o justo oferecendo _feedbacks_ honestos, justos e construtivos (independente da aprovação ou não do **CANDIDATO**).
 
-Temos o sentimento de que as **CONTRATANTES** dificilmente preocupam em conduzir processos humanizados.
+Temos o sentimento de que as **CONTRATANTES** dificilmente se preocupam em conduzir processos humanizados.
 
 Isso gera o grande **PROBLEMA**: CANDIDATOS sérios e comprometidos são tratados como descartáveis. **CANDIDATOS** qualificados permanecem sem oportunidades. As **CONTRATANTES** sofrem com o turnover de pessoas e as **PLATAFORMAS** quase sempre pendem para o lado das **CONTRATANTES**.
 
@@ -61,7 +61,7 @@ Processos seletivos não podem se arrastar por meses nem exigir formulários e t
 
 ### 4. Avaliação justa e relevante
 
-Testes técnicos devem medir habilidades práticas e condizentes com o trabalho real não armadilhas, desafios irreais ou provas intermináveis que nada dizem sobre a competência do candidato.
+Testes técnicos devem medir habilidades práticas e condizentes com o trabalho real, não armadilhas, desafios irreais ou provas intermináveis que nada dizem sobre a competência do candidato.
 
 ### 5. Reciprocidade no processo
 
